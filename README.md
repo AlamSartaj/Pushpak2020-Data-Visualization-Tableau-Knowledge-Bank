@@ -1,2 +1,2 @@
-# Pushpak2020-Data-Visualization-Tableau-KnowledgeBank
+# Pushpak2020-Data-Visualization-Tableau-Knowledge Bank
 Training materials for Tableau.
